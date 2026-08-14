@@ -1,0 +1,60 @@
+SpeciesID,sci-name,com_name,WebID,NodeType
+1,PhytoP,PhytoPlamcton,EWB,species
+2,Zooplankton,Zooplankton,EWB,species
+3,Polychaeta,NA,EWB,species
+4,Oligochaeta,NA,EWB,species
+5,Ulva lactuca,Green Seaweed,EWB,species
+6,Nematoda,NA,EWB,species
+7,Gammaridae,NA,EWB,species
+8,Tanaidacea,NA,EWB,species
+9,Insecta,NA,EWB,species
+10,Omalogyra atomus,NA,EWB,species
+11,Gibbula umbilicalis,NA,EWB,species
+14,Stenothoidae,NA,EWB,species
+15,Mytilus galloprovincialis,NA,EWB,species
+16,Rissoidae,Minute Sea snails,EWB,species
+18,Acanthochitona crinita,Petit chiton,EWB,species
+19,Barleeia sp.,Rissoid Snails,EWB,species
+22,Colpomenia peregrina,NA,EWB,species
+25,Ampithoidae,NA,EWB,species
+33,Gobius paganellus,Rock goby,EWB,species
+37,Palaemon elegans,rock shrimp,EWB,species
+41,Nassariidae,NA,EWB,species
+52,Carcinus maenas,Shore Crab,EWB,species
+54,Nemertea,NA,EWB,species
+62,Actinia equina,Beadlet anemone,EWB,species
+65,Ostracoda,NA,EWB,species
+72,Solecurtus strigilatus,NA,EWB,species
+83,Harparticoida,NA,EWB,species
+112,Patella vulgata,Common limpet,EWB,species
+113,Phorcus lineatus,lined top shell,EWB,species
+138,Polysiphonia sp.,NA,EWB,species
+140,Amphipholis squamata,brooding snake star,EWB,species
+147,Turritellidae,NA,EWB,species
+156,Palaemon serratus,Common prawn,EWB,species
+168,Venerupis sp.,NA,EWB,species
+171,Palmaria palmata,NA,EWB,species
+172,Rhodomela confervoides,NA,EWB,species
+173,Bivalvia,NA,EWB,species
+198,Furcellaria lumbricalis,NA,EWB,species
+208,Jania rubens,Coralliniales,EWB,species
+246,Halacaridae,NA,EWB,species
+248,Spirorbis spirorbis,NA,EWB,species
+254,Nereis sp.,NA,EWB,species
+288,Membranipora membranaceae,NA,EWB,species
+289,Gibbula cineraria,NA,EWB,species
+291,Ulva linza,NA,EWB,species
+293,Nucella lapillus,NA,EWB,species
+349,Pagurus bernhardus,Common Hermit Crab,EWB,species
+365,Halurus equisetifolius,NA,EWB,species
+366,Nemalion helminthoides,NA,EWB,species
+516,Anemonia viridis,snakelocks anemone,EWB,species
+517,Desmarestia aculeata,NA,EWB,species
+518,Chorda filum,NA,EWB,species
+519,Sargassum muticum,NA,EWB,species
+520,Phymatolithon calcareum,NA,EWB,species
+521,Symphodus melops,Corkwing wrasse,EWB,species
+522,Cancer pagurus,Edible Crab,EWB,species
+900,water filtration,,,service
+1000,commercial fishery,,,service
+1300,recreational fishery,,,service

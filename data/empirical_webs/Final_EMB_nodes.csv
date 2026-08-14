@@ -1,0 +1,63 @@
+SpeciesID,sci-name,com_name,WebID,NodeType
+1,PhytoP,PhytoPlamcton,EMB,species
+2,Zooplankton,Zooplankton,EMB,species
+3,Polychaeta,NA,EMB,species
+4,Oligochaeta,NA,EMB,species
+5,Ulva lactuca,Green Seaweed,EMB,species
+6,Nematoda,NA,EMB,species
+7,Gammaridae,NA,EMB,species
+8,Tanaidacea,NA,EMB,species
+9,Insecta,NA,EMB,species
+10,Omalogyra atomus,NA,EMB,species
+11,Gibbula umbilicalis,NA,EMB,species
+14,Stenothoidae,NA,EMB,species
+20,Sphaeromatidae,NA,EMB,species
+22,Colpomenia peregrina,NA,EMB,species
+29,Littorina saxatilis,Gastropoda,EMB,species
+37,Palaemon elegans,rock shrimp,EMB,species
+45,Patella ulyssiponensis,True limpets,EMB,species
+52,Carcinus maenas,Shore Crab,EMB,species
+58,Littorina littorea,Common periwinkle,EMB,species
+65,Ostracoda,NA,EMB,species
+75,Dictyota dichotoma,NA,EMB,species
+83,Harparticoida,NA,EMB,species
+110,Cumacea,NA,EMB,species
+112,Patella vulgata,Common limpet,EMB,species
+113,Phorcus lineatus,lined top shell,EMB,species
+114,Chondrus crispus,Irish Moos,EMB,species
+138,Polysiphonia sp.,NA,EMB,species
+152,Patella depressa,True limpets,EMB,species
+156,Palaemon serratus,Common prawn,EMB,species
+171,Palmaria palmata,NA,EMB,species
+172,Rhodomela confervoides,NA,EMB,species
+173,Bivalvia,NA,EMB,species
+196,Corallina officinalis,NA,EMB,species
+197,Ascophyllum nodosum,Brown seaweed,EMB,species
+198,Furcellaria lumbricalis,NA,EMB,species
+213,Fucus vesiculosus,Bladder Wrack,EMB,species
+246,Halacaridae,NA,EMB,species
+248,Spirorbis spirorbis,NA,EMB,species
+283,Mysida,NA,EMB,species
+288,Membranipora membranaceae,NA,EMB,species
+289,Gibbula cineraria,NA,EMB,species
+290,Fucus serratus,Toothed Wrack,EMB,species
+291,Ulva linza,NA,EMB,species
+292,Saccharina latissima,sea belt,EMB,species
+293,Nucella lapillus,NA,EMB,species
+349,Pagurus bernhardus,Common Hermit Crab,EMB,species
+350,Ectocarpus siliculosus,Brownalgae,EMB,species
+351,Lomentaria articulata,NA,EMB,species
+479,Austrominius modestus,New-Zealand barnacle,EMB,species
+480,Procerodes littoralis,NA,EMB,species
+481,Tonicella rubra,NA,EMB,species
+482,Oshurkovia littoralis,NA,EMB,species
+483,Nymphon gracile,NA,EMB,species
+484,Ulva intestinalis,NA,EMB,species
+485,Mastocarpus stellatus,NA,EMB,species
+486,Ophiocomina nigra,black brittle star,EMB,species
+487,Pomatoschistus minutus,sand goby,EMB,species
+488,Lineus ruber,NA,EMB,species
+489,Lithophyllum incrustans,NA,EMB,species
+900,water filtration,,,service
+1000,commercial fishery,,,service
+1300,recreational fishery,,,service

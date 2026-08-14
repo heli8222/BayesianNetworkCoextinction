@@ -1,0 +1,96 @@
+SpeciesID,sci-name,com_name,WebID,NodeType
+18,Acanthochitona crinita,Petit chiton,PCR,species
+62,Actinia equina,Beadlet anemone,PCR,species
+111,Actinia fragacea,Strawberry anemone,PCR,species
+149,Actinothoe sphyrodeta,Sandalled anemone,PCR,species
+306,Aeolidia papillosa,Common grey sea slug,PCR,species
+25,Ampithoidae,NA,PCR,species
+26,Anemonia sulcata,Mediterranean snakelocks anemone,PCR,species
+155,Angulus tenuis,Thin tellin,PCR,species
+70,Aplysia punctata,Common sea hare,PCR,species
+38,Asparagopsis armata,Red Seaweed,PCR,species
+131,Asterina gibbosa,Cushion Star,PCR,species
+210,Atherina boyeri,Big-scale sand smelt,PCR,species
+80,Aulactinia verrucosa,Brooding sea anemone,PCR,species
+19,Barleeia sp.,Rissoid Snails,PCR,species
+57,Bifurcaria bifurcata,Stackhouse,PCR,species
+212,Botryllus schlosseri,Ascidian,PCR,species
+81,Calliopidae,Painted top shell,PCR,species
+71,Caprella sp.,skeleton shrimps,PCR,species
+52,Carcinus maenas,Shore Crab,PCR,species
+61,Cardiidae,cockle,PCR,species
+93,Ceramium ciliatum,NA,PCR,species
+214,Ceramium virgatum,NA,PCR,species
+114,Chondrus crispus,Irish Moos,PCR,species
+311,Chrysallida pellucida,NA,PCR,species
+148,Chthamalus sp.,Barnacle,PCR,species
+309,Cladophora rupestris,Green Seaweed,PCR,species
+44,Codium sp.,NA,PCR,species
+22,Colpomenia peregrina,NA,PCR,species
+13,Copepoda,NA,PCR,species
+47,Coryphoblennius galerita,Montagu's blenny,PCR,species
+48,Cystoseira sp.,NA,PCR,species
+305,Diplodus sargus sargus,White seabream,PCR,species
+21,Ellisolandia elongata,NA,PCR,species
+154,Eriphia verrucosa,yellow crab,PCR,species
+213,Fucus vesiculosus,Bladder Wrack,PCR,species
+7,Gammaridae,NA,PCR,species
+11,Gibbula umbilicalis,NA,PCR,species
+307,Gobius niger,Black goby,PCR,species
+33,Gobius paganellus,Rock goby,PCR,species
+308,Holothuria sp.,NA,PCR,species
+9,Insecta,NA,PCR,species
+102,Leathesia marina,sea potato,PCR,species
+262,Lepadogaster lepadogaster,shore clingfish,PCR,species
+40,Lepidochitona cinerea,NA,PCR,species
+101,Leptochiton algesirensis,NA,PCR,species
+17,Lipophrys pholis,Shanny,PCR,species
+103,Lipophrys trigloides,NA,PCR,species
+383,Lithophyllum byssoides,NA,PCR,species
+12,Lithophyllum sp.,NA,PCR,species
+100,Liza ramada,NA,PCR,species
+79,Lophozozymus incisus,NA,PCR,species
+153,Lysianassidae,NA,PCR,species
+150,Marthasterias glacialis,Spiny Starfish,PCR,species
+27,Musculus costulatus,NA,PCR,species
+15,Mytilus galloprovincialis,NA,PCR,species
+41,Nassariidae,NA,PCR,species
+6,Nematoda,NA,PCR,species
+54,Nemertea,NA,PCR,species
+49,Nucella sp.,NA,PCR,species
+380,Octopus vulgaris,common octopus,PCR,species
+4,Oligochaeta,NA,PCR,species
+10,Omalogyra atomus,NA,PCR,species
+28,Ophiuroidea,Brittle stars,PCR,species
+177,Pachygrapsus marmoratus,marbled rock crab,PCR,species
+310,Palaemon adspersus,NA,PCR,species
+37,Palaemon elegans,rock shrimp,PCR,species
+39,Palaemon longirostris,NA,PCR,species
+156,Palaemon serratus,Common prawn,PCR,species
+64,Pantopoda,Sea spider,PCR,species
+23,Paracentrotus lividus,Purple Sea Urchin,PCR,species
+152,Patella depressa,True limpets,PCR,species
+382,Patella rustica,True limpets,PCR,species
+45,Patella ulyssiponensis,True limpets,PCR,species
+112,Patella vulgata,Common limpet,PCR,species
+211,Petricolinae,Venus clams,PCR,species
+113,Phorcus lineatus,lined top shell,PCR,species
+1,PhytoP,PhytoPlamcton,PCR,species
+56,Pirimela denticulata,Thumbnail crab,PCR,species
+3,Polychaeta,NA,PCR,species
+16,Rissoidae,Minute Sea snails,PCR,species
+132,Sagartia elegans,NA,PCR,species
+381,Sardina pilchardus,Pilchard,PCR,species
+72,Solecurtus strigilatus,NA,PCR,species
+24,Sphacelaria cirrosa,Red Seaweed,PCR,species
+20,Sphaeromatidae,NA,PCR,species
+14,Stenothoidae,NA,PCR,species
+8,Tanaidacea,NA,PCR,species
+151,Turbellaria,NA,PCR,species
+53,Turridae,NA,PCR,species
+147,Turritellidae,NA,PCR,species
+5,Ulva lactuca,Green Seaweed,PCR,species
+2,Zooplankton,Zooplankton,PCR,species
+900,water filtration,,,service
+1000,commercial fishery,,,service
+1300,recreational fishery,,,service

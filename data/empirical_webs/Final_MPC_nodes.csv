@@ -1,0 +1,64 @@
+SpeciesID,sci-name,com_name,WebID,NodeType
+1,PhytoP,PhytoPlamcton,MPC,species
+2,Zooplankton,Zooplankton,MPC,species
+3,Polychaeta,NA,MPC,species
+4,Oligochaeta,NA,MPC,species
+6,Nematoda,NA,MPC,species
+7,Gammaridae,NA,MPC,species
+8,Tanaidacea,NA,MPC,species
+9,Insecta,NA,MPC,species
+10,Omalogyra atomus,NA,MPC,species
+11,Gibbula umbilicalis,sea snail,MPC,species
+13,Copepoda,NA,MPC,species
+17,Lipophrys pholis,Shanny fish,MPC,species
+18,Acanthochitona crinita,Petit chiton,MPC,species
+19,Barleeia sp.,Rissoid Snails,MPC,species
+23,Paracentrotus lividus,Purple Sea Urchin,MPC,species
+25,Ampithoidae,NA,MPC,species
+30,Pachygrapsus transversus,NA,MPC,species
+37,Palaemon elegans,rock shrimp,MPC,species
+42,Isopoda,NA,MPC,species
+45,Patella ulyssiponensis,True limpets,MPC,species
+46,Stramonita haemastoma,red-mouthed rock shell or the Florida dog winkle,MPC,species
+47,Coryphoblennius galerita,Montagu's blenny,MPC,species
+53,Turridae,NA,MPC,species
+55,Corallina sp.,NA,MPC,species
+56,Pirimela denticulata,Thumbnail crab,MPC,species
+65,Ostracoda,NA,MPC,species
+66,Ulva sp.,NA,MPC,species
+71,Caprella sp.,skeleton shrimps,MPC,species
+73,Sargassum vulgare,NA,MPC,species
+76,Padina pavonica,NA,MPC,species
+100,Liza ramada,NA,MPC,species
+117,Dictyota sp.,NA,MPC,species
+139,Batzella inops,Encrusting yellow sponge,MPC,species
+140,Amphipholis squamata,brooding snake star,MPC,species
+153,Lysianassidae,NA,MPC,species
+154,Eriphia verrucosa,yellow crab,MPC,species
+167,Dictyopteris polypodioides,NA,MPC,species
+174,Rhodomelaceae,NA,MPC,species
+192,Anemonia sargassensis,snakelocks anemone,MPC,species
+199,Caulerpa webbiana,Green tree seaweed,MPC,species
+200,Cladophora prolifera,NA,MPC,species
+209,Lithophyllum,NA,MPC,species
+247,Leucothoidae,NA,MPC,species
+249,Priapulida,NA,MPC,species
+250,Halopteris filicina,NA,MPC,species
+294,Parablennius parvicornis,Rock-pool,MPC,species
+295,Cystoseira abies-marina,NA,MPC,species
+296,Gibbula pennanti,sea snail,MPC,species
+324,Tricolia sp.,NA,MPC,species
+352,Tricleocarpa cylindrica,NA,MPC,species
+353,Dictyota bartayresiana,NA,MPC,species
+354,Laurencia sp.,NA,MPC,species
+355,Gobius sp.,NA,MPC,species
+356,Acanthonyx lunulatus,Cangrejo de las algas,MPC,species
+357,Cladostephus spongiosus,NA,MPC,species
+358,Codium adhaerens,NA,MPC,species
+490,Thalassoma pavo,ornate wrasse,MPC,species
+491,Grapsus adscensionis,NA,MPC,species
+492,Liagora sp.,NA,MPC,species
+493,Valonia sp.,NA,MPC,species
+1000,commercial fishery,,,service
+1300,recreational fishery,,,service
+900,water filtration,,,service

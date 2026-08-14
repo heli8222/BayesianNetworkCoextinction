@@ -1,0 +1,179 @@
+System,SpeciesID,Genus,Species,Common Name,Type,NodeType
+LRL,2,Perca,flavescens,yellow perch,Organism,species
+LRL,4,Micropterus ,salmoides,largemouth bass,Organism,species
+LRL,6,Ambloplites,rupestris,rock bass,Organism,species
+LRL,8,Pomoxis,nigromaculatus,black crappie,Organism,species
+LRL,9,Umbra,nf,mudminnow,Organism,species
+LRL,10,Notemigonus,crysoleucus,shiner,Organism,species
+LRL,11,nf,nf,fish eggs,Organism,species
+LRL,12,Diaptomus,minutus,pelagic copepod,Organism,species
+LRL,13,Diacyclops,thomasi,pelagic copepod,Organism,species
+LRL,14,Mesocyclops,edax,pelagic copepod,Organism,species
+LRL,15,Tropocyclops,prasinus,pelagic copepod,Organism,species
+LRL,16,Epischura,lacustris,pelagic copepod,Organism,species
+LRL,17,Bosmina,longirostris,pelagic cladocera,Organism,species
+LRL,18,Eubosmina,nf,pelagic cladocera,Organism,species
+LRL,19,Daphnia,galeata,pelagic cladocera,Organism,species
+LRL,20,Daphnia,parvula,pelagic cladocera,Organism,species
+LRL,21,Diaphanosoma,birgei,pelagic cladocera,Organism,species
+LRL,22,Holopedium,gibberum,pelagic cladocera,Organism,species
+LRL,23,Leptodora,kindtii,pelagic cladocera,Organism,species
+LRL,24,Polyphemus,pediculuc,pelagic cladocera,Organism,species
+LRL,25,Conochilus,unicornis,pelagic rotifers,Organism,species
+LRL,26,Conochiloides,nf,pelagic rotifers,Organism,species
+LRL,27,Kellicottia,longispina,pelagic rotifers,Organism,species
+LRL,28,Kellicottia,bostoniensis,pelagic rotifers,Organism,species
+LRL,29,Keratella,cochlearis,pelagic rotifers,Organism,species
+LRL,30,Keratella,taurocephala,pelagic rotifers,Organism,species
+LRL,31,Keratella,crassa,pelagic rotifers,Organism,species
+LRL,32,Keratella,hiemalis,pelagic rotifers,Organism,species
+LRL,33,Polyarthra,remata,pelagic rotifers,Organism,species
+LRL,34,Polyarthra,vulgaris,pelagic rotifers,Organism,species
+LRL,35,Trichocerca,cylindrica,pelagic rotifers,Organism,species
+LRL,36,Asplanchna,nf,pelagic rotifers,Organism,species
+LRL,37,Gastropus,nf,pelagic rotifers,Organism,species
+LRL,38,Synchaeta,nf,pelagic rotifers,Organism,species
+LRL,39,Nauplii,nf,juvenile pelagic zooplankton,Organism,species
+LRL,40,nf,nf,juvenile pelagic zooplankton,Organism,species
+LRL,41,nf,nf,juvenile pelagic zooplankton,Organism,species
+LRL,42,Alona,affinis,benthic cladocera,Organism,species
+LRL,43,Alona,quadrangularis,benthic cladocera,Organism,species
+LRL,44,Alona,rustica,benthic cladocera,Organism,species
+LRL,45,Alona,intermedia,benthic cladocera,Organism,species
+LRL,46,Alona,excisa,benthic cladocera,Organism,species
+LRL,47,Disparalona,acutirostris,benthic cladocera,Organism,species
+LRL,48,Chydorus,sp1,benthic cladocera,Organism,species
+LRL,49,Chydorus,sp2,benthic cladocera,Organism,species
+LRL,50,Acantholeberis,curvirostris,benthic cladocera,Organism,species
+LRL,51,Ophryoxus,gracilis,benthic cladocera,Organism,species
+LRL,52,Scapholeberis,kingi,benthic cladocera,Organism,species
+LRL,53,Sida,crystallina,benthic cladocera,Organism,species
+LRL,54,Macrocyclops,albidus,benthic copepods,Organism,species
+LRL,55,Eucyclops,serrulatus,benthic copepods,Organism,species
+LRL,56,Acanthocyclops,nf,benthic copepods,Organism,species
+LRL,57,Microcyclops,rubellus,benthic copepods,Organism,species
+LRL,58,nf,nf,benthic copepods,Organism,species
+LRL,59,nf,nf,benthic copepods,Organism,species
+LRL,60,Gerris,nf,hemiptera,Organism,species
+LRL,61,Hydroporus,nf,coleoptera,Organism,species
+LRL,62,Leptophlebia,nf,ephemeroptera,Organism,species
+LRL,63,Caenis,nf,ephemeroptera,Organism,species
+LRL,64,Oecetis,nf,trichoptera,Organism,species
+LRL,65,Mystacides,nf,trichoptera,Organism,species
+LRL,66,Limnephilus,nf,trichoptera,Organism,species
+LRL,67,Agrypnia,nf,trichoptera,Organism,species
+LRL,68,Banksiola,nf,trichoptera,Organism,species
+LRL,69,Molanna,nf,trichoptera,Organism,species
+LRL,70,Polycentropus,nf,trichoptera,Organism,species
+LRL,71,Anisopetra ,nf,odonata,Organism,species
+LRL,72,Libellula,nf,odonata,Organism,species
+LRL,73,Sympetrum,nf,odonata,Organism,species
+LRL,74,Enallagma,nf,odonata,Organism,species
+LRL,75,Climacia,nf,neuroptera,Organism,species
+LRL,76,nf,nf,hemiptera,Organism,species
+LRL,77,nf,nf,hemiptera,Organism,species
+LRL,78,Sialis,nf,megaloptera,Organism,species
+LRL,79,Eoparagyractis,nf,lepidoptera,Organism,species
+LRL,80,Bezzia,nf,diptera,Organism,species
+LRL,81,Sphaeromais,nf,diptera,Organism,species
+LRL,82,Choaborus,albatus,diptera,Organism,species
+LRL,83,Chaoborus,punctipennis,diptera,Organism,species
+LRL,84,Albabesmyia,nf,diptera,Organism,species
+LRL,85,Clinotanypus,nf,chironomid,Organism,species
+LRL,86,Djalmabatista,nf,chironomid,Organism,species
+LRL,87,Guttipelopia,nf,chironomid,Organism,species
+LRL,88,Larsia,nf,chironomid,Organism,species
+LRL,89,Macropelopis,nf,chironomid,Organism,species
+LRL,90,Procladius,nf,chironomid,Organism,species
+LRL,91,Chaetocladius,nf,chironomid,Organism,species
+LRL,92,Corynoneura,nf,chironomid,Organism,species
+LRL,93,Cricotopus,nf,chironomid,Organism,species
+LRL,94,Nanocladius,nf,chironomid,Organism,species
+LRL,95,Micropsectra,nf,chironomid,Organism,species
+LRL,96,Paratanytarsus,nf,chironomid,Organism,species
+LRL,97,Tanytarsus,nf,chironomid,Organism,species
+LRL,98,Chironomus,nf,chironomid,Organism,species
+LRL,99,Cladopelma,nf,chironomid,Organism,species
+LRL,100,Cryptochironomus,nf,chironomid,Organism,species
+LRL,101,Endochrionomus,nf,chironomid,Organism,species
+LRL,102,Glyptotendipes,nf,chironomid,Organism,species
+LRL,103,Microtendipes,nf,chironomid,Organism,species
+LRL,104,Parachironomus,nf,chironomid,Organism,species
+LRL,105,Paratendipes,nf,chironomid,Organism,species
+LRL,106,Polypedilum,nf,chironomid,Organism,species
+LRL,107,Pseudochironomus,nf,chironomid,Organism,species
+LRL,108,Stenochironomus,nf,chironomid,Organism,species
+LRL,109,Stictochironomus,nf,chironomid,Organism,species
+LRL,110,Xenochironomus,nf,chironomid,Organism,species
+LRL,111,nf,nf,mollusc,Organism,species
+LRL,112,Campeloma,decisum,mollusc,Organism,species
+LRL,113,nf,nf,mollusc,Organism,species
+LRL,114,nf,nf,annelid ,Organism,species
+LRL,115,nf,nf,annelid ,Organism,species
+LRL,116,nf,nf,tubellaria,Organism,species
+LRL,117,Crangonyx,gracilis,amphipod,Organism,species
+LRL,118,Spongilla,lacustris,porifera,Organism,species
+LRL,119,Ephydatia,muelleri,porifera,Organism,species
+LRL,120,Corvomyenia,everetti,porifera,Organism,species
+LRL,121,nf,nf,arthropod,Organism,species
+LRL,122,Bambusina,nf,filamentous algae,Organism,species
+LRL,123,Batrachospermum,nf,filamentous algae,Organism,species
+LRL,124,Binuclearia,nf,filamentous algae,Organism,species
+LRL,125,Bulbochaete,nf,filamentous algae,Organism,species
+LRL,126,Desmidium,nf,filamentous algae,Organism,species
+LRL,127,Geminella,nf,filamentous algae,Organism,species
+LRL,128,Groenbladia,nf,filamentous algae,Organism,species
+LRL,129,Hapalosiphon,nf,filamentous algae,Organism,species
+LRL,130,Hyalotheca,nf,filamentous algae,Organism,species
+LRL,131,Lyngbya,nf,filamentous algae,Organism,species
+LRL,132,Microchaete,nf,filamentous algae,Organism,species
+LRL,133,Microcoleus,nf,filamentous algae,Organism,species
+LRL,134,Mougeotia,nf,filamentous algae,Organism,species
+LRL,135,Oedogonium,nf,filamentous algae,Organism,species
+LRL,136,Oscillatoria,nf,filamentous algae,Organism,species
+LRL,137,Phormidium,nf,filamentous algae,Organism,species
+LRL,138,Plectonema,nf,filamentous algae,Organism,species
+LRL,139,Radiofilum,nf,filamentous algae,Organism,species
+LRL,140,Rhizoclonium,nf,filamentous algae,Organism,species
+LRL,141,Schizothrix,nf,filamentous algae,Organism,species
+LRL,142,Scytonema,nf,filamentous algae,Organism,species
+LRL,143,Sphaerozosma,nf,filamentous algae,Organism,species
+LRL,144,Spirogyra,nf,filamentous algae,Organism,species
+LRL,145,Tribonema,nf,filamentous algae,Organism,species
+LRL,146,Zygnema,nf,cyanobacteria,Organism,species
+LRL,147,Chroococcus,nf,cyanobacteria,Organism,species
+LRL,148,Gloeothece,nf,cyanobacteria,Organism,species
+LRL,149,Merismopedia,nf,cyanobacteria,Organism,species
+LRL,150,Aphanocapsa,nf,cyanobacteria,Organism,species
+LRL,151,Gomphosphaeria,nf,cyanobacteria,Organism,species
+LRL,152,Coelosphaerium,nf,cyanobacteria,Organism,species
+LRL,153,Rhabdoderma,nf,cyanobacteria,Organism,species
+LRL,154,Aphanothece,nf,cyanobacteria,Organism,species
+LRL,155,Anabaena,nf,cyanobacteria,Organism,species
+LRL,156,Arthrodesmus,nf,green algae,Organism,species
+LRL,157,Cosmarium,nf,green algae,Organism,species
+LRL,158,Crucigenia,nf,green algae,Organism,species
+LRL,159,Euastrum,nf,green algae,Organism,species
+LRL,160,Oocystis,nf,green algae,Organism,species
+LRL,161,Pediastrum,nf,green algae,Organism,species
+LRL,162,Quadrigula,nf,green algae,Organism,species
+LRL,163,Schroederia,nf,green algae,Organism,species
+LRL,164,Spondylosium,nf,green algae,Organism,species
+LRL,165,Stauastrum,nf,green algae,Organism,species
+LRL,166,Tetraedron,nf,green algae,Organism,species
+LRL,167,Ankistrodesmus,nf,green algae,Organism,species
+LRL,168,Xanthidium,nf,green algae,Organism,species
+LRL,169,Elaktothrix,nf,green algae,Organism,species
+LRL,170,Scenedesmus,nf,green algae,Organism,species
+LRL,171,Phacus,nf,euglenophyta,Organism,species
+LRL,172,Trachelomonas,nf,euglenophyta,Organism,species
+LRL,173,Chroomonas,nf,cryptophyta,Organism,species
+LRL,174,Cryptomonas,nf,cryptophyta,Organism,species
+LRL,175,Asterionella,nf,chrysophyceae,Organism,species
+LRL,176,Dinobryon,nf,chrysophyceae,Organism,species
+LRL,177,Mallomonas,nf,chrysophyceae,Organism,species
+LRL,178,Synedra,nf,chrysophyceae,Organism,species
+LRL,179,Synura,nf,chrysophyceae,Organism,species
+LRL,180,Tabellaria,nf,chrysophyceae,Organism,species
+LRL,1300,RecFishery,,,ES,service
+LRL,800,carbon storage,,,ES,service

@@ -1,0 +1,40 @@
+System,SpeciesID,WorkingName,common_name,NodeType
+CHB,1,Phytoplankton,,species
+CHB,2,Bacteria attached to suspended particles,,species
+CHB,3,Sediment bacteria,,species
+CHB,4,Benthic algae,,species
+CHB,5,Free bacteria in water column,,species
+CHB,6,Heterotrophic microflagellates,,species
+CHB,7,Microzooplankton,,species
+CHB,8,Zooplankton,,species
+CHB,9,Ctenophores,,species
+CHB,10,Chrysaora quinquecirrha,Atlantic sea nettle,species
+CHB,11,Other suspension feeders,,species
+CHB,12,Mya,saltwater calm,species
+CHB,13,Crassostrea virginica,Eastern oyster,species
+CHB,14,Other polychaetes,,species
+CHB,15,Nereis,polychaete,species
+CHB,16,Macoma spp,Maacoma Clam,species
+CHB,17,Meiofauna,,species
+CHB,18,Crustacean deposit feeders,,species
+CHB,19,Callinectes sapidus,Chesapeake blue crab,species
+CHB,20,Fish larvae,,species
+CHB,21,Clupeidae,family of ray finned fish,species
+CHB,22,Anchoa mitchilli,bay anchovy,species
+CHB,23,Brevoortia tyrannus,Atlantic menhaden,species
+CHB,24,Alosa sapidissima,American shad,species
+CHB,25,Micropogonius undulatus,Atlantic croaker,species
+CHB,26,Trinectes maculatus,Hogchoker,species
+CHB,27,Leiostomus xanthurus,Spot,species
+CHB,28,Morone americana,white perch,species
+CHB,29,Arius felis,hardhead catfish,species
+CHB,30,Pomatomus saltatrix,bluefish,species
+CHB,31,Cynoscion aregalis,weakfish,species
+CHB,32,Paralichthys dentatus,summer flounder,species
+CHB,33,Morone saxatilis,striped bass,species
+CHB,600,Wave attenuation,,service
+CHB,700,Shoreline protection,,service
+CHB,800,Carbon sequestration,,service
+CHB,900,Water filtration,,service
+CHB,1000,CommFishery,,service
+CHB,1300,RecFishery,,service

@@ -1,0 +1,48 @@
+SpeciesID,sci-name,com_name,WebID,NodeType
+1,PhytoP,PhytoPlamcton,MRM,species
+2,Zooplankton,Zooplankton,MRM,species
+3,Polychaeta,NA,MRM,species
+4,Oligochaeta,NA,MRM,species
+6,Nematoda,NA,MRM,species
+7,Gammaridae,NA,MRM,species
+8,Tanaidacea,NA,MRM,species
+9,Insecta,NA,MRM,species
+10,Omalogyra atomus,NA,MRM,species
+11,Gibbula umbilicalis,NA,MRM,species
+13,Copepoda,NA,MRM,species
+14,Stenothoidae,NA,MRM,species
+17,Lipophrys pholis,Shanny,MRM,species
+18,Acanthochitona crinita,Petit chiton,MRM,species
+23,Paracentrotus lividus,Purple Sea Urchin,MRM,species
+30,Pachygrapsus transversus,NA,MRM,species
+42,Isopoda,NA,MRM,species
+44,Codium sp.,NA,MRM,species
+45,Patella ulyssiponensis,True limpets,MRM,species
+47,Coryphoblennius galerita,Montagu's blenny,MRM,species
+61,Cardiidae,cockle,MRM,species
+66,Ulva sp.,NA,MRM,species
+71,Caprella sp.,skeleton shrimps,MRM,species
+73,Sargassum vulgare,NA,MRM,species
+76,Padina pavonica,NA,MRM,species
+79,Lophozozymus incisus,NA,MRM,species
+113,Phorcus lineatus,lined top shell,MRM,species
+117,Dictyota sp.,NA,MRM,species
+128,Petaloconchus sp,NA,MRM,species
+139,Batzella inops,Encrusting yellow sponge,MRM,species
+162,Hypnea sp.,NA,MRM,species
+174,Rhodomelaceae,NA,MRM,species
+209,Lithophyllum,NA,MRM,species
+247,Leucothoidae,NA,MRM,species
+249,Priapulida,NA,MRM,species
+294,Parablennius parvicornis,Rock-pool,MRM,species
+296,Gibbula pennanti,NA,MRM,species
+353,Dictyota bartayresiana,NA,MRM,species
+355,Gobius sp.,NA,MRM,species
+358,Codium adhaerens,NA,MRM,species
+500,Ammotheidae,Sea spiders,MRM,species
+501,Stypocaulon scoparium,NA,MRM,species
+502,Lepadogaster zebrina,NA,MRM,species
+503,Ceramium sp.,NA,MRM,species
+1000,commercial fishery,,,service
+1300,recreational fishery,,,service
+900,water filtration,,,service

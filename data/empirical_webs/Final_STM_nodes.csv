@@ -1,0 +1,149 @@
+System,SpeciesID,common_name,sci_name,BodyWeight,FeedingMode,MetabolicCategory,FeedingType,Mobility,Environment,NodeType
+STM,1,,benthic bacteria,0.0000095,grazer,primaryproducer,detrivorous,4,benthic,species
+STM,2,,microfauna,0.00001,grazer,invertebrate,omnivorous,4,benthic,species
+STM,3,,meiofauna,0.00008,grazer,invertebrate,omnivorous,4,benthic,species
+STM,4,,bacterioplankton,0.000005,grazer,primaryproducer,omnivorous,4,pelagic,species
+STM,5,,microprotozoa,0.000004,grazer,invertebrate,omnivorous,1,pelagic,species
+STM,6,,Acunmindeutopus naglei,0.00316,grazer,invertebrate,herbivorous,3,benthic,species
+STM,7,,Amphithoe longimana,0.00617,grazer,invertebrate,herbivorous,3,benthic,species
+STM,8,skeleton shrimp,Caprella penantis,0.00876,grazer,invertebrate,herbivorous,3,benthic,species
+STM,9,amphipod,Cymadusa compta,0.0118,grazer,invertebrate,herbivorous,3,benthic,species
+STM,10,,Lembos rectanularis,0.00505,grazer,invertebrate,herbivorous,3,benthic,species
+STM,11,,Batea catharinensis,0.00876,grazer,invertebrate,herbivorous,3,benthic,species
+STM,12,crustacea,Elasmopus levis,0.00405,grazer,invertebrate,herbivorous,3,benthic,species
+STM,13,crustacea,Melita,0.00144,grazer,invertebrate,herbivorous,3,benthic,species
+STM,14,crustacea,Synchelidium,0.00876,grazer,invertebrate,herbivorous,3,benthic,species
+STM,15,amphipod,Listriella barnardi,0.000944,grazer,invertebrate,herbivorous,3,benthic,species
+STM,16,amphipod,Lysianopsis alba,0.00218,grazer,invertebrate,herbivorous,3,benthic,species
+STM,17,scorched mussel,Brachiodontes exustus,0.124,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,18,saltwater clam,Chione cancellata,0.0216,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,19,Atlantic Bay Scallop,Argopecten irradians,0.119,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,20,common slipper shell,Crepidula fornicata,0.0507,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,21,Chinese Hat snail,Crepidula convexa,0.0701,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,22,hermit crab,Pagurus mclaughlini,0.00377,grazer,invertebrate,detrivorous,3,benthic,species
+STM,23,longnose spider crab,Libinia dubia,6.38,grazer,invertebrate,detrivorous,3,benthic,species
+STM,24,Texas mud crab,Neopanope texana,2.72,predator,invertebrate,omnivorous,3,benthic,species
+STM,25,,Pinixia floridana,2.18,predator,invertebrate,omnivorous,3,benthic,species
+STM,26,blue crab,Callinectes sapidus,3.65,predator,invertebrate,omnivorous,3,benthic,species
+STM,27,isopod,Erichsonella,0.00876,grazer,invertebrate,detrivorous,3,benthic,species
+STM,28,,Paracerces caudata,0.00118,grazer,invertebrate,detrivorous,3,benthic,species
+STM,29,,Edotea triloba,0.00239,grazer,invertebrate,detrivorous,3,benthic,species
+STM,30,brittle star,Ophioderma brevispinum,0.0507,predator,invertebrate,omnivorous,2,benthic,species
+STM,31,amphipod,Ampelisca,0.00505,grazer,invertebrate,detrivorous,3,benthic,species
+STM,32,scud,Gammarus mucronatus,0.000626,grazer,invertebrate,detrivorous,3,benthic,species
+STM,33,amphipod,Cerapus tubularis,0.000737,grazer,invertebrate,detrivorous,3,benthic,species
+STM,34,amphipod,Corophium,0.0074,grazer,invertebrate,detrivorous,3,benthic,species
+STM,35,crustacea,Cumacea,0.0118,grazer,invertebrate,detrivorous,3,benthic,species
+STM,36,crustacea,Tanaidacea,0.00138,grazer,invertebrate,detrivorous,3,benthic,species
+STM,37,ostracod,Ostracoda,0.000000318,grazer,invertebrate,detrivorous,3,benthic,species
+STM,38,mysid shrimp,Mysidopsis,0.00443,grazer,invertebrate,detrivorous,3,benthic,species
+STM,39,shrimp,Hippolyte zostericola,0.00505,grazer,invertebrate,herbivorous,3,benthic,species
+STM,40,zooplankton,Alpheus normani,0.0118,grazer,invertebrate,herbivorous,3,benthic,species
+STM,41,shrimp,Palaemonetes floridanus,0.0701,predator,invertebrate,omnivorous,3,benthic,species
+STM,42,royal red shrimp,Penaeus duorum,0.0346,predator,invertebrate,omnivorous,3,benthic,species
+STM,43,shrimp,Processa bermudensis,0.0406,predator,invertebrate,omnivorous,3,benthic,species
+STM,44,Atlantic Stingray,Dasyatis sabina,4900,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,45,Hardhead Catfish,Arius felis,5500,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,46,Blackcheek tonguefish,Symphurus plagisua,192,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,47,Gulf Flounder,Paralichthyes albigutta,39.4,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,48,Atlantic Needlefish,Strongylura marina,1500,predator,ectotherm vertebrate,omnivorous,4,pelagic,species
+STM,49,Southern Hake,Urophycis floridana,301,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,50,Leopard Searobin,Prionotus scitulus,366,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,51,Bighead Searobin,Prionotus tribulus,714,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,52,inland silverside,Menidia beryllina,15.1,predator,ectotherm vertebrate,omnivorous,4,pelagic,species
+STM,53,anchovy,Anchoa mitchelli,6.88,predator,ectotherm vertebrate,omnivorous,4,pelagic,species
+STM,54,sheepshead minnow,Cyprinodon variegatus variegatus,21.8,predator,ectotherm vertebrate,omnivorous,4,benthopelagic,species
+STM,55,Longnose killfish,Fundulus similis,45.6,predator,ectotherm vertebrate,omnivorous,4,benthopelagic,species
+STM,56,Marsh killfish,Fundulus confluentus,16.1,predator,ectotherm vertebrate,omnivorous,4,benthopelagic,species
+STM,57,diamond killifish,Adinia xenica,7.68,predator,ectotherm vertebrate,omnivorous,4,benthopelagic,species
+STM,58,clown goby,Microgobius gulosus,5.86,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,59,code goby,Gobiosoma robustum,1.18,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,60,pinfish,Lagodon rhomboides,1500,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,61,spot croaker,Leiostomus xanthurus,450,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,62,dwarf seahorse,Hippocampus zosterae,4.8,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,63,gulf pipefish,Syngnathus scovelli,135,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,64,red drum,Sciaenops ocellatus,45000,predator,ectotherm vertebrate,omnivorous,4,benthic,species
+STM,65,barrel bubble,Acteocina candei,0.00118,grazer,invertebrate,detrivorous,2,benthic,species
+STM,66,flower,Schwartziella catesbyana,0.00239,grazer,invertebrate,detrivorous,2,benthic,species
+STM,67,mollusca,Cadulus carolinensis,0.00505,grazer,invertebrate,detrivorous,2,benthic,species
+STM,68,mollusca,Haminoea succinea,0.0074,grazer,invertebrate,detrivorous,2,benthic,species
+STM,69,mollusca,Acteon punctostriatus,0.00405,grazer,invertebrate,detrivorous,2,benthic,species
+STM,70,sea snail,Olivella mutica,0.00118,grazer,invertebrate,detrivorous,2,benthic,species
+STM,71,land snail,Truncatella pulchella,0.00204,grazer,invertebrate,detrivorous,2,benthic,species
+STM,72,snail ,Nassarius vibex,0.00505,grazer,invertebrate,detrivorous,2,benthic,species
+STM,73,sea snail,Urosalpinx perrugata,0.113,predator,invertebrate,omnivorous,2,benthic,species
+STM,74,mollusca,Opalia hotessieriana,0.0102,predator,invertebrate,omnivorous,2,benthic,species
+STM,75,mollusca,Epitonium albidum,0.0057,predator,invertebrate,omnivorous,2,benthic,species
+STM,76,,Terbra,0.0419,predator,invertebrate,omnivorous,2,benthic,species
+STM,77,sea snail,Polinices,0.283,predator,invertebrate,omnivorous,2,benthic,species
+STM,78,gastropod,Busycon spiratum,0.195,predator,invertebrate,omnivorous,2,benthic,species
+STM,79,sea snail,Turbonilla dalli,0.00876,predator,invertebrate,omnivorous,2,benthic,species
+STM,80,sea snail,Turbonilla hemphilli,0.00933,predator,invertebrate,omnivorous,2,benthic,species
+STM,81,sea snail,Prunum apicinum,0.00316,predator,invertebrate,omnivorous,2,benthic,species
+STM,82,sea snail,Prunum bellum,0.0074,predator,invertebrate,omnivorous,2,benthic,species
+STM,83,sea snail,Prunum aureocincata,0.00405,predator,invertebrate,omnivorous,2,benthic,species
+STM,84,mollusca,Natica pusilla,0.00505,predator,invertebrate,omnivorous,2,benthic,species
+STM,85,,Hylina veliei,NA,NA,NA,NA,NA,NA,species
+STM,86,chiton,Acanthochitona pygmaea,1.23,predator,invertebrate,omnivorous,2,benthic,species
+STM,87,mollusca,Odostomia seminuda,0.292,predator,invertebrate,omnivorous,2,benthic,species
+STM,88,mollusca,Seila adamsi,0.00239,predator,invertebrate,omnivorous,2,benthic,species
+STM,89,sea snail,Cerithium lutosum,0.0216,grazer,invertebrate,herbivorous,2,benthic,species
+STM,90,sea snail,Mitrella lunata,0.00173,grazer,invertebrate,herbivorous,2,benthic,species
+STM,91,mollusca,Solariella lamellosa,0.00333,grazer,invertebrate,herbivorous,2,benthic,species
+STM,92,mollusca,Anachis avara,0.0194,grazer,invertebrate,herbivorous,2,benthic,species
+STM,93,mollusca,Mangelia plicosa,0.00537,predator,invertebrate,omnivorous,2,benthic,species
+STM,94,mollusca,Jaspidella jaspidea,0.0154,predator,invertebrate,omnivorous,2,benthic,species
+STM,95,polychaete,Aricidea sp.,0.0216,grazer,invertebrate,detrivorous,2,benthic,species
+STM,96,polychaete,Capitellidae,0.398,grazer,invertebrate,detrivorous,2,benthic,species
+STM,97,polychaete,Cirratulidae,0.932,grazer,invertebrate,detrivorous,2,benthic,species
+STM,98,polychaete,Maldanidae,1.49,grazer,invertebrate,detrivorous,2,benthic,species
+STM,99,polychaete,Orbiniidae,0.635,grazer,invertebrate,detrivorous,2,benthic,species
+STM,100,polychaete,Paraonidae,0.0928,grazer,invertebrate,detrivorous,2,benthic,species
+STM,101,polychaete,Pectanaridae,0.148,grazer,invertebrate,detrivorous,2,benthic,species
+STM,102,polychaete,Syllidae,0.509,grazer,invertebrate,detrivorous,2,benthic,species
+STM,103,polychaete,Amphitritidae,0.3,grazer,invertebrate,detrivorous,2,benthic,species
+STM,104,polychaete,Spionidae,0.0507,grazer,invertebrate,detrivorous,2,benthic,species
+STM,105,polychaete,Glyceridae,1.29,predator,invertebrate,omnivorous,2,benthic,species
+STM,106,polychaete,Nereidae,0.932,predator,invertebrate,omnivorous,2,benthic,species
+STM,107,polychaete,Onuphidae,7.31,predator,invertebrate,omnivorous,2,benthic,species
+STM,108,polychaete,Hesionidae,0.0507,predator,invertebrate,omnivorous,2,benthic,species
+STM,109,polychaete,Nemertines,4.35,predator/scavenger,invertebrate,omnivorous,2,benthic,species
+STM,110,polychaete,Serpulidae,0.0928,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,111,polychaete,Sabellidae,0.932,suspension-feeder,invertebrate,herbivorous/detrivorous,2,benthic,species
+STM,112,copepods,Acartia tonsa,0.000000746,predator,invertebrate,omnivorous,4,pelagic,species
+STM,113,,Foraminifera,0.0000125,grazer,invertebrate,detrivorous,2,benthic,species
+STM,114,copepods,Harpacticoid,2.53E-09,grazer,invertebrate,detrivorous,2,benthic,species
+STM,115,worm,Nematode,0.00013,grazer,invertebrate,detrivorous,2,benthic,species
+STM,116,sea spider,Pycnogonid,0.0928,predator,invertebrate,omnivorous,4,benthic,species
+STM,117,mangrove rail,Rallus longirostris,350,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,118,Bufflehead - sea duck,Bucephala albeola,450,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,119,sempalmated plover,Charadrius semipalmatus,65,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,120,great egret,Casmerodius albus,1500,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,121,common loon,Gavia immer,4500,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,122,great blue heron,Ardea herodias,3600,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,123,tricolored heron,Hydranassa tricolor,350,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,124,red-breasted merganser,Mergus serrator,1990,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,125,great cormorant,Phalacrocorax carbo,4000,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,126,belted kingfisher,Megaceryle alcyon,170,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,127,hooded merganser,Lophodytes cucullatus,600,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,128,willet,Catoptrophorus semipalmatus,642,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,129,greater yellowlegs,Tringa melanoleuca,250,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,130,foster's tern,Sterna forsteri,450,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,131,laughing gull,Larus atricilla,642,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,132,European herring gull,Larus argentatus,1250,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,133,ring-billed gull,Larus delawarensis,1050,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,134,bald eagle,Haliaeetus leucocephalus,7000,predator,endotherm vertebrate,omnivorous,4,land-based,species
+STM,135,hen harrier,Circus cyaneus,530,predator,endotherm vertebrate,carnivorous,4,land-based,species
+STM,136,blue winged teal,Anas discors,370,predator,endotherm vertebrate,carnivorous,4,land-based,species
+STM,137,aquatic plant,Halodule wrightii,40.8,primaryproducer,primaryproducer,primaryproducer,1,benthic,species
+STM,138,,Micro-epiphytes,0.0001,primaryproducer,primaryproducer,primaryproducer,1,benthic,species
+STM,139,,Macro-epiphytes,0.0025,primaryproducer,primaryproducer,primaryproducer,1,benthic,species
+STM,140,,Benthic algae,0.0025,primaryproducer,primaryproducer,primaryproducer,1,benthic,species
+STM,141,,Phytoplankton,0.000065,primaryproducer,primaryproducer,primaryproducer,1,pelagic,species
+STM,1000,,CommFishery,,,,,,,service
+STM,1300,,RecFishery,,,,,,,service
+STM,1200,,WaterfowlHunting,,,,,,,service
+STM,700,,Shoreline Protection,,,,,,,service
+STM,800,,carbon-storage,,,,,,,service
+STM,600,,wave-attenuation,,,,,,,service
+STM,900,,water-filtration,,,,,,,service

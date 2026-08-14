@@ -1,9 +1,15 @@
 # BayesianNetworkCoextinction
 This repository contains the data, code, figures, and tables for "Maximum trophic level predicts food webs’ susceptibility to coextinctions" (Li et al.)
 
-This repository is also archived in Zenodo at https://doi.org/10.5281/zenodo.21939117
+Authors: \*Henry Li, Anna Ekl&ouml;f, &dagger;Gy&ouml;rgy Barab&aacute;s, &dagger;Laura E. Dee
 
-The pre-print of the associated manuscript is available in bioRxiv at
+&dagger; denotes co-senior author
+
+\*Corresponding Author: Henry Li, henry.li-1@colorado.edu
+
+This repository is archived in Zenodo at https://doi.org/10.5281/zenodo.21939116
+
+The preprint of the associated manuscript is available in bioRxiv at
 
 ## Replication Instructions
 Set working directory to your local repository location and run the following `R` scripts in the order listed.

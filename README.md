@@ -9,7 +9,7 @@ Authors: \*Henry Li, Anna Ekl&ouml;f, &dagger;Gy&ouml;rgy Barab&aacute;s, &dagge
 
 This repository is archived in Zenodo at https://doi.org/10.5281/zenodo.21939116
 
-The preprint of the associated manuscript is available in bioRxiv at
+The preprint of the associated manuscript is available in bioRxiv at https://doi.org/10.64898/2026.08.14.744947
 
 ## Replication Instructions
 Set working directory to your local repository location and run the following `R` scripts in the order listed.
